@@ -10,7 +10,7 @@ lyricsgenius
 motor==3.0.0
 pillow
 psutil
-git+https://github.com/Jerryrobot/pytgcalls
+git+https://github.com/Jerryrobot/pytcall
 pykeyboard
 pyrogram==1.4.16
 python-dotenv
