@@ -20,6 +20,6 @@ Git+https://github.com/Jerryrobot/okspeed
 spotipy
 tgcrypto
 numpy
-git+https://github.com/Jerryrobot/yt-dlp
+git+https://github.com/Jerryrobot/zdlp
 youtube-search
 youtube-search-python
